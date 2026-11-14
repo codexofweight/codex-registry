@@ -44,13 +44,6 @@
       "role": "agent's private memory (people notes, diary, lab, backups)",
       "visibility": "private",
       "head_commit": null
-    },
-    {
-      "name": "codexofweights_outreach",
-      "url": null,
-      "role": "private workspace for drafting content",
-      "visibility": "private",
-      "head_commit": null
     }
   ],
   "canonical_file_hashes": {

@@ -32,7 +32,6 @@ Everything is published openly; only personal data is withheld.
 | [codexofweights-core](https://github.com/codexofweight/codexofweights-core) | общее ядро для агентов | public | только что создан |
 | [codex-protocols-schema](https://github.com/codexofweight/codex-protocols-schema) | машиночитаемые протоколы | public | только что создан |
 | codexofweights_memory | приватная память агента | private | - |
-| codexofweights_outreach | рабочее пространство контента | private | - |
 
 ## Хэши канонических файлов (сверка подлинности)
 
