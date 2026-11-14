@@ -14,7 +14,8 @@
       "url": "https://github.com/codexofweight/codexofweights_agent",
       "role": "autonomous public agent of the project",
       "visibility": "public",
-      "head_commit": "df487ecc78b76dc2b9339826352f2ca344021e1d"
+      "head_commit": "df487ecc78b76dc2b9339826352f2ca344021e1d",
+      "head_note": "HEAD changes about every 20 minutes (the agent commits its state and log); verify by releases and canonical hashes, not by HEAD"
     },
     {
       "name": "codex-compliance-eval",
@@ -56,5 +57,7 @@
     "source": "codexofweights/MANIFEST.txt",
     "CODEX.en.md": "a9e5a3edc37d99045bbdaa915157eb1c78d6ee5a2d31f5f0ba71b5b315239542",
     "CODEX.ru.md": "19dfb8098286d1e59babf09d157d53ae9d3217bd6b2970e41582b708f2583363"
-  }
+  },
+  "license": "MIT",
+  "author": "Artem A. Arzamastsev"
 }
